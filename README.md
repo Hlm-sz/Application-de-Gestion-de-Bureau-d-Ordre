@@ -23,7 +23,7 @@ Ce projet est une application web de gestion de bureau d'ordre développée avec
 * Lancez les factories pour générer des données de test : php artisan db:seed
 * Allez à la table users dans la base de données et modifiez le rôle d'un utilisateur en "1" pour lui donner les droits administratifs.
 * Lancez l'application :
-  ++ Back-end : php artisan serve
-  ++ Front-end : npm run dev
+  + Back-end : php artisan serve
+  + Front-end : npm run dev
 
 
