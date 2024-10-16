@@ -1,19 +1,20 @@
 # Application-de-Gestion-de-Bureau-d-Ordre
 Ce projet est une application web de gestion de bureau d'ordre développée avec Laravel pour le back-end et ReactJS pour le front-end. Il a été conçu pour aider les entreprises à gérer, suivre et traiter leurs courriers entrants et sortants de manière centralisée et efficace.
 
-Fonctionnalités principales.
+# Fonctionnalités principales.
  -Enregistrement des courriers : Créez et enregistrez les courriers entrants et sortants dans un système centralisé.
  -Suivi en temps réel : Suivez l'état des courriers en temps réel pour une traçabilité optimale.
  -Automatisation : Automatisation des processus de gestion des courriers pour réduire les erreurs et améliorer l'efficacité.
  -Gestion des documents : Stockez et consultez les documents associés aux courriers dans un espace dédié.
- -Collaboration inter-départements : Améliorez la communication interne en permettant aux départements de collaborer plus efficacement sur la gestion des courriers.
+ -Collaboration inter-départements : Améliorez la communication interne en permettant aux départements de collaborer plus efficacement 
+  sur la gestion des courriers.
  
-Technologies utilisées.
+# Technologies utilisées.
 Laravel : Framework PHP utilisé pour la gestion du back-end.
 ReactJS : Librairie JavaScript utilisée pour l'interface utilisateur.
 MySQL : Base de données pour stocker les informations des courriers.
 
-Installation.
+# Installation.
  Clonez le dépôt : git clone https://github.com/Hlm-sz/Application-de-Gestion-de-Bureau-d-Ordre.git
  Installez les dépendances Laravel : composer install
  Installez les dépendances React : npm install
