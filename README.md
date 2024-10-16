@@ -2,11 +2,11 @@
 Ce projet est une application web de gestion de bureau d'ordre développée avec Laravel pour le back-end et ReactJS pour le front-end. Il a été conçu pour aider les entreprises à gérer, suivre et traiter leurs courriers entrants et sortants de manière centralisée et efficace.
 
 # Fonctionnalités principales.
- .Enregistrement des courriers : Créez et enregistrez les courriers entrants et sortants dans un système centralisé.
- -Suivi en temps réel : Suivez l'état des courriers en temps réel pour une traçabilité optimale.
- -Automatisation : Automatisation des processus de gestion des courriers pour réduire les erreurs et améliorer l'efficacité.
- -Gestion des documents : Stockez et consultez les documents associés aux courriers dans un espace dédié.
- -Collaboration inter-départements : Améliorez la communication interne en permettant aux départements de collaborer plus efficacement 
++ Enregistrement des courriers : Créez et enregistrez les courriers entrants et sortants dans un système centralisé.
++ Suivi en temps réel : Suivez l'état des courriers en temps réel pour une traçabilité optimale.
+ - Automatisation : Automatisation des processus de gestion des courriers pour réduire les erreurs et améliorer l'efficacité.
+ - Gestion des documents : Stockez et consultez les documents associés aux courriers dans un espace dédié.
+ - Collaboration inter-départements : Améliorez la communication interne en permettant aux départements de collaborer plus efficacement 
   sur la gestion des courriers.
  
 # Technologies utilisées.
